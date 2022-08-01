@@ -31,3 +31,5 @@ Professora no IFC *campus* Videira desde 2010
 - :pushpin: Segurança
 - :pushpin: Infrastructure as Code
 
+### Licenciatura em Pedagogia
+- :pushpin: Tecnologias da Informação e Comunicação em Educação
