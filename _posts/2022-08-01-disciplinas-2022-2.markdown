@@ -1,0 +1,18 @@
+
+---
+layout: post
+title:  "Disciplinas ministradas no segundo semestre de 2022"
+date:   2022-08-01 16:59:00 -0300
+categories: disciplinas
+---
+
+## Disciplinas 2022/2
+
+### Curso Técnico em Informática
+- Redes de Computadores
+
+### Bacharelado em Ciência da Computação
+- Redes de Computadores I
+
+### Licenciatura em Pedagogia
+- Tecnologias Digitais da Informação e Comunicação

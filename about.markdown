@@ -26,10 +26,10 @@ Professora no IFC *campus* Videira desde 2010
 - :pushpin: Redes de Computadores
 
 ### Bacharelado em Ciência da Computação
-- :pushpin: Redes de Computadores I
+- :pushpin: Redes de Computadores I 
 - :pushpin: Redes de Computadores II
 - :pushpin: Segurança
 - :pushpin: Infrastructure as Code
 
 ### Licenciatura em Pedagogia
-- :pushpin: Tecnologias da Informação e Comunicação em Educação
+- :pushpin: Tecnologias Digitais da Informação e Comunicação
