@@ -3,3 +3,6 @@ title: Angelita Zanella
 description: Página pessoal
 domain: angelitazanella.github.io
 url: http://angelitazanella.github.io
+
+plugins:
+  - jemoji
