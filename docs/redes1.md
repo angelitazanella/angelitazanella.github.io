@@ -16,7 +16,7 @@ Modelo de Referência OSI. Arquitetura TCP/IP. Interligação de redes de comput
 
 | **Data** | **Tema da Aula** |  **Conteúdo** | **Recursos de Aprendizagem** |
 |:--------:| :------------------:|---------------|----------------------------------|
-| 08/8/2022 | Introdução | Componentes de rede, topologias, tipos de rede, conexões com a Internet, confiabilidade, tendências, segurança | [Simulação Packet Tracer](/pt/redes1-2022-01.pkt) |
+| 08/8/2022 | Introdução | Componentes de rede, topologias, tipos de rede, conexões com a Internet, confiabilidade, segurança | [Simulação Packet Tracer](/pt/redes1-2022-01.pkt) |
 | 15/8/2022 | Switch básico | Portas e endereços, Configuração de endereços IP, conectividade | |
 | 22/8/2022 | Protocolos e modelos | Padronização, Modelo OSI, Arquitetura TCP/IP, Encapsulamento, acesso a dados | |
 | 29/8/2022 | Camada Física | Características, cabeamento de cobre, cabeamento UTP, fibra óptica, mídia sem fio, largura de banda e vazão | |
