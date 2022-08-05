@@ -12,7 +12,7 @@ permalink: /redes1/
 Fundamentos de transmissão de dados. Topologias, protocolos e serviços em redes.
 Modelo de Referência OSI. Arquitetura TCP/IP. Interligação de redes de computadores.
 
-## Calendário
+## Cronograma
 
 | **Data** | **Tema da Aula** |  **Conteúdo** | **Recursos de Aprendizagem** |
 |:--------:| :------------------:|---------------|----------------------------------|
