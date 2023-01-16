@@ -55,6 +55,7 @@ td{
     border-color:inherit;
     text-align:center;
     vertical-align:middle
+    font-size:12px;
 }
 
 
