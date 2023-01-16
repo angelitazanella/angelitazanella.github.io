@@ -20,16 +20,6 @@ td{
   text-align: center;
   width:100px
 }
-th{
-  background-color:#f0f0f0;    
-  font-family:Arial, sans-serif;
-  font-size:11px;
-  font-weight:normal;
-  overflow:hidden;
-  padding:10px 5px;
-  word-break:normal;
-}
-
 .redes1{
   background-color:coral
 }
@@ -53,6 +43,8 @@ th{
   text-align:center;
   vertical-align:middle;
   font-size:12px;
+  font-family:Arial, sans-serif;
+  font-weight: :bold;
 }
 </style>
 <table >
