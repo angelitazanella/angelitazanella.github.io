@@ -1,126 +1,176 @@
 ---
 layout: page
-title: Horário 2022/2
+title: Horário 2023/1
 permalink: /horario/
----
+output: 
+  html_document:
+     css: css/styles.css
+     self_contained: no
 
-<style type="text/css">
-  .tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
-  .tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
-    font-family:Arial, sans-serif;font-size:12px;overflow:hidden;padding:10px 5px;word-break:normal;}
-  .tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
-    font-family:Arial, sans-serif;font-size:12px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-  .tg .tg-e6ut{background-color:#9aff99;border-color:inherit;text-align:center;vertical-align:middle}
-  .tg .tg-9wq8{border-color:inherit;text-align:center;vertical-align:middle}
-  .tg .tg-2xs2{background-color:#f56b00;border-color:inherit;text-align:center;vertical-align:middle}
-  .tg .tg-j4xs{background-color:#cbcefb;border-color:inherit;text-align:center;vertical-align:middle}
-  .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:middle}
-  .tg .tg-roi2{background-color:#c0c0c0;border-color:inherit;text-align:center;vertical-align:middle}
-  .tg .tg-p03w{background-color:#fffc9e;border-color:inherit;text-align:center;vertical-align:middle}
-  .tg .tg-n73t{background-color:#ffccc9;border-color:inherit;text-align:center;vertical-align:middle}
-  .tg .tg-eaf5{background-color:#3166ff;border-color:inherit;text-align:center;vertical-align:middle}
-  </style>
-  <table class="tg" style="undefined;table-layout: fixed; width: 994px">
-  <colgroup>
-  <col style="width: 60px">
-  <col style="width: 60px">
-  <col style="width: 60px">
-  <col style="width: 60px">
-  <col style="width: 60px">
-  <col style="width: 60px">
-  </colgroup>
+---
+<style>
+table{
+  border-collapse:collapse;
+  border-color:#ccc;
+  border-spacing:0;
+}
+td{
+    border-collapse:collapse;
+    border-color:#ccc;
+    border-spacing:0; 
+    font-size:11px;
+    text-align: center;
+    width:100px
+  }
+  th{
+    background-color:#f0f0f0;
+    border-color:#ccc;
+    border-style:solid;
+    border-width:1px;color:#333;
+    font-family:Arial, sans-serif;
+    font-size:11px;
+    font-weight:normal;
+    overflow:hidden;
+    padding:10px 5px;
+    word-break:normal;
+  }
+  table {
+  width: 100%;
+}
+
+.redes1{
+    background-color:coral
+}
+.redes2{
+    background-color:chocolate
+}
+.seguranca{
+    background-color:olive
+}
+.topicos1{
+    background-color:darkcyan
+}
+.tics{
+    background-color:indianred
+}
+.tecinf1{
+    background-color:darkgoldenrod
+}
+.l1{
+    border-color:inherit;
+    text-align:center;
+    vertical-align:middle
+}
+
+
+
+</style>
+  <table >
+ 
   <thead>
     <tr>
-      <th class="tg-9wq8"></th>
-      <th class="tg-9wq8">Segunda</th>
-      <th class="tg-9wq8">Terça</th>
-      <th class="tg-9wq8">Quarta</th>
-      <th class="tg-9wq8">Quinta</th>
-      <th class="tg-9wq8">Sexta</th>
+      <th class="l1"></th>
+      <th class="l1">Segunda</th>
+      <th class="l1">Terça</th>
+      <th class="l1">Quarta</th>
+      <th class="l1">Quinta</th>
+      <th class="l1">Sexta</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td class="tg-9wq8">Manhã - 1ª aula<br>7:30 - 8:15</td>
-      <td class="tg-2xs2" rowspan="5">4ª fase Computação<br>Redes I</td>
-      <td class="tg-9wq8"></td>
-      <td class="tg-c3ow" rowspan="5">Planejamento<br></td>      
-      <td class="tg-roi2">Atendimento</td>
-      <td class="tg-c3ow" rowspan="5">Planejamento<br></td>      
+      <td >Manhã - 1ª aula<br>7:30 - 8:20</td>
+      <td >Coordenação</td>
+      <td rowspan="5">Planejamento</td>
+      <td class="seguranca" rowspan="2">GBCC - 7a. fase<br><br><b>Segurança de Sistemas</b></td>      
+      <td rowspan="3">Coordenação</td>
+      <td ></td>      
     </tr>
     <tr>
-      <td class="tg-9wq8">Manhã - 2ª aula<br>8:15 - 9:00</td>
-      <td class="tg-9wq8"></td>
-      <td class="tg-e6ut" rowspan="2">Info 3B - 01<br>Redes</td>
+      <td >Manhã - 2ª aula<br>8:20 - 9:10</td>
+      <td class="topicos1" rowspan="2">GBCC - 7ª. fase<br><br><b>Optativa: Tópicos especiais em Informática</b></td>
+      <td ></td>
     </tr>
     <tr>
-      <td class="tg-9wq8">Manhã - 3ª aula<br>9:00 - 9:45</td>
-      <td class="tg-9wq8"></td>
+      <td >Manhã - 3ª aula<br>9:10 - 10:00</td>      
+      <td >Coordenação</td>
+      <td ></td>
     </tr>
     <tr>
-      <td class="tg-9wq8">Manhã - 4ª aula<br>10:00 - 10:45</td>
-      <td class="tg-9wq8"></td>
-      <td class="tg-e6ut" rowspan="2">Info 3B - 02<br>Redes</td>
+      <td >Manhã - 4ª aula<br>10:20 - 11:10</td>      
+      <td class="redes1" rowspan="2">GBCC - 5ª. fase<br><br><b>Redes de Computadpres II</b></td>
+      <td class="redes1" rowspan="2">GBCC - 5ª. fase<br><br><b>Redes de Computadpres II</b></td>
+      <td class="seguranca" rowspan="2">GBCC - 7ª. fase<br><br><b>Segurança de Sistemas</b></td> 
+      <td ></td>  
+    </tr>
+     <tr>
+      <td >Manhã - 5ª aula<br>11:10 - 12:00</td>      
+      <td ></td>
+    </tr>
     </tr>
     <tr>
-      <td class="tg-9wq8">Manhã - 5ª aula<br>10:45 - 11:30</td>
-      <td class="tg-9wq8"></td>
+      <td >Almoço<br>12:10 - 13:30</td>      
+      <td ></td>
+      <td ></td>
+      <td ></td>
+      <td ></td>
+      <td ></td>
     </tr>
     <tr>
-      <td class="tg-9wq8">Tarde - 1ª aula<br>13:15 - 14:00</td>
-      <td class="tg-j4xs" rowspan="2">Info 2A - 02<br>Redes</td>
-      <td class="tg-n73t" rowspan="2">Info 2B - 01<br>Redes</td>
-      <td class="tg-9wq8" rowspan="4">Reuniões</td>
-      <td class="tg-p03w" rowspan="2">Info 3A - 01<br>Redes</td>
-      <td class="tg-9wq8" rowspan="5">Planejamento</td>
+      <td >Tarde - 1ª aula<br>13:00 - 14:20</td>      
+      <td class="tecinf1" rowspan="2">Info 3A e 3B<br><br><b>Optativa II: Cibersegurança</b></td>
+      <td rowspan="4">Planejamento</td>
+      <td rowspan="4">Planejamento/ Coordenação</td>
+      <td rowspan="4">Planejamento/ Coordenação</td>
+      <td rowspan="4">Planejamento</td>
     </tr>
     <tr>
-      <td class="tg-9wq8">Tarde - 2ª aula<br>14:00 - 14:45</td>
+      <td >Tarde - 2ª aula<br>14:20 - 15:10</td>  
     </tr>
     <tr>
-      <td class="tg-9wq8">Tarde - 3ª aula<br>15:00 - 15:45</td>
-      <td class="tg-j4xs" rowspan="2">Info 2A - 01<br>Redes</td>
-      <td class="tg-n73t" rowspan="2">Info 3B - 02<br>Redes</td>
-      <td class="tg-p03w" rowspan="2">Info 3A - 02<br>Redes</td>
+      <td >Tarde - 3ª aula<br>15:30 - 16:20</td>  
+      <td rowspan="2">Planejamento/ Coordenação</td>
+    </tr>
+   <tr>
+      <td>Tarde - 4ª aula<br>16:20 - 17:10</td>  
     </tr>
     <tr>
-      <td class="tg-9wq8">Tarde - 4ª aula<br>15:45 - 16:30</td>
+      <td >Janta<br>17:10 - 19:00</td>      
+      <td ></td>
+      <td ></td>
+      <td ></td>
+      <td ></td>
+      <td ></td>
     </tr>
     <tr>
-      <td class="tg-9wq8">Tarde - 5ª aula<br>16:30 - 17:15</td>
-      <td class="tg-roi2">Atendimento </td>
-      <td class="tg-9wq8">Proj. Extensão</td>
-      <td class="tg-9wq8">Proj. Pesquisa</td>
-      <td class="tg-roi2">Atendimento </td>
+      <td >Noite - 1ª aula<br>19:00 - 19:50</td>      
+      <td ></td>
+      <td ></td>
+      <td ></td>
+      <td ></td>
+      <td class="tics" rowspan="4">Pedagogia - 7ª fase<br><br><b>Tecnologias Digitais da Informação e Comunicação</b></td>
     </tr>
     <tr>
-      <td class="tg-9wq8">Noite - 1ª aula<br>19:00 - 19:50</td>
-      <td class="tg-9wq8"></td>
-      <td class="tg-eaf5" rowspan="4">8ª fase - Pedagogia<br>Tecnologias Digitais da <br>Informação e Comunicação</td>
-      <td class="tg-9wq8"></td>
-      <td class="tg-9wq8"></td>      
-      <td class="tg-9wq8"></td>
+      <td >Noite - 2ª aula<br>19:50 - 20:40</td>      
+      <td ></td>
+      <td ></td>
+      <td ></td>
+      <td ></td>
     </tr>
     <tr>
-      <td class="tg-9wq8">Noite - 2ª aula<br>19:50 - 20:40</td>
-      <td class="tg-9wq8"></td>
-      <td class="tg-9wq8"></td>
-      <td class="tg-9wq8"></td>
-      <td class="tg-9wq8"></td>
+      <td >Noite - 3ª aula<br>20:50 - 21:40</td>      
+      <td ></td>
+      <td ></td>
+      <td ></td>
+      <td ></td>
     </tr>
     <tr>
-      <td class="tg-9wq8">Noite - 3ª aula<br>20:50 - 21:40</td>
-      <td class="tg-9wq8"></td>
-      <td class="tg-9wq8"></td>
-      <td class="tg-9wq8"></td>
-      <td class="tg-9wq8"></td>
+      <td >Noite - 4ª aula<br>21:40 - 22:30</td>      
+      <td ></td>
+      <td ></td>
+      <td ></td>
+      <td ></td>
     </tr>
-    <tr>
-      <td class="tg-9wq8">Noite - 4ª aula<br>21:40 - 22:30</td>
-      <td class="tg-9wq8"></td>
-      <td class="tg-9wq8"></td>
-      <td class="tg-9wq8"></td>
-      <td class="tg-9wq8"></td>
-    </tr> 
+   
   </tbody>
   </table>
