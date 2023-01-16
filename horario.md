@@ -48,7 +48,6 @@ td{
 </style>
 <table >
     <tr>
-    bbb
       <td class="l1"></td>
       <td class="l1">Segunda</td>
       <td class="l1">Terça</td>
@@ -63,24 +62,24 @@ td{
       <td class="seguranca" rowspan="2">GBCC - 7a. fase<br><br><b>Segurança de Sistemas</b></td>      
       <td rowspan="3">Coordenação</td>
       <td ></td>      
-    </tr>kk
+    </tr>
     <tr>
       <td >Manhã - 2ª aula<br>8:20 - 9:10</td>
       <td class="topicos1" rowspan="2">GBCC - 7ª. fase<br><br><b>Optativa: Tópicos especiais em Informática</b></td>
       <td ></td>
-    </tr> qqq
+    </tr> 
     <tr>
       <td >Manhã - 3ª aula<br>9:10 - 10:00</td>      
       <td >Coordenação</td>
       <td ></td>
-    </tr>rrr
+    </tr>
     <tr>
       <td >Manhã - 4ª aula<br>10:20 - 11:10</td>      
       <td class="redes1" rowspan="2">GBCC - 5ª. fase<br><br><b>Redes de Computadpres II</b></td>
       <td class="redes1" rowspan="2">GBCC - 5ª. fase<br><br><b>Redes de Computadpres II</b></td>
       <td class="seguranca" rowspan="2">GBCC - 7ª. fase<br><br><b>Segurança de Sistemas</b></td> 
       <td ></td>  
-    </tr>sss
+    </tr>
      <tr>
       <td >Manhã - 5ª aula<br>11:10 - 12:00</td>      
       <td ></td>
