@@ -39,7 +39,6 @@ td{
   background-color:darkgoldenrod
 }
 .l1{
-  border-color:inherit;
   text-align:center;
   vertical-align:middle;
   font-size:12px;
@@ -58,14 +57,14 @@ aaa
       <td class="l1">Quinta</td>
       <td class="l1">Sexta</td>
     </tr> ccc
-    <tr>
+    <tr> ddd
       <td >Manhã - 1ª aula<br>7:30 - 8:20</td>
       <td >Coordenação</td>
       <td rowspan="5">Planejamento</td>
       <td class="seguranca" rowspan="2">GBCC - 7a. fase<br><br><b>Segurança de Sistemas</b></td>      
       <td rowspan="3">Coordenação</td>
       <td ></td>      
-    </tr>
+    </tr>kk
     <tr>
       <td >Manhã - 2ª aula<br>8:20 - 9:10</td>
       <td class="topicos1" rowspan="2">GBCC - 7ª. fase<br><br><b>Optativa: Tópicos especiais em Informática</b></td>
@@ -152,3 +151,4 @@ aaa
       <td ></td>
     </tr>
   </table>
+  ddd
