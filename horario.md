@@ -2,11 +2,6 @@
 layout: page
 title: Horário 2023/1
 permalink: /horario/
-output: 
-  html_document:
-     css: css/styles.css
-     self_contained: no
-
 ---
 <style>
 table{
