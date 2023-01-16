@@ -57,10 +57,10 @@ td{
     </tr> 
     <tr> 
       <td >Manhã - 1ª aula<br>7:30 - 8:20</td>
-      <td >Coordenação</td>
+      <td >Coordenação / Atendimento ao aluno</td>
       <td rowspan="5">Planejamento</td>
       <td class="seguranca" rowspan="2">GBCC - 7a. fase<br><br><b>Segurança de Sistemas</b></td>      
-      <td rowspan="3">Coordenação</td>
+      <td rowspan="3">Coordenação / Atendimento ao aluno</td>
       <td ></td>      
     </tr>
     <tr>
@@ -70,7 +70,7 @@ td{
     </tr> 
     <tr>
       <td >Manhã - 3ª aula<br>9:10 - 10:00</td>      
-      <td >Coordenação</td>
+      <td >Coordenação / Atendimento ao aluno</td>
       <td ></td>
     </tr>
     <tr>
