@@ -48,14 +48,16 @@ td{
 }
 </style>
 <table >
+aaa
     <tr>
+    bbb
       <td class="l1"></td>
       <td class="l1">Segunda</td>
       <td class="l1">Terça</td>
       <td class="l1">Quarta</td>
       <td class="l1">Quinta</td>
       <td class="l1">Sexta</td>
-    </tr>
+    </tr> ccc
     <tr>
       <td >Manhã - 1ª aula<br>7:30 - 8:20</td>
       <td >Coordenação</td>
