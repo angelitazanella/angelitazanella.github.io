@@ -3,6 +3,7 @@ layout: page
 title: Horário 1º Semestre de 2023
 permalink: /horario/
 ---
+Bla
 <style>
 table{
   border-collapse:collapse;
@@ -54,15 +55,13 @@ td{
 .l1{
     border-color:inherit;
     text-align:center;
-    vertical-align:middle
+    vertical-align:middle;
     font-size:12px;
 }
 
-
-
 </style>
-  <table >
- 
+
+<table >
   <thead>
     <tr>
       <th class="l1"></th>
@@ -167,6 +166,5 @@ td{
       <td ></td>
       <td ></td>
     </tr>
-   
   </tbody>
   </table>
