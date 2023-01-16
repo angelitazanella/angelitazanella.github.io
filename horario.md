@@ -55,22 +55,15 @@ th{
   font-size:12px;
 }
 </style>
-mmmmmm
 <table >
-nnn
-  <thead>
     <tr>
-      <th class="l1"></th>
-      <th class="l1">Segunda</th>
-      <th class="l1">Terça</th>
-      <th class="l1">Quarta</th>
-      <th class="l1">Quinta</th>
-      <th class="l1">Sexta</th>
+      <td class="l1"></td>
+      <td class="l1">Segunda</td>
+      <td class="l1">Terça</td>
+      <td class="l1">Quarta</td>
+      <td class="l1">Quinta</td>
+      <td class="l1">Sexta</td>
     </tr>
-  </thead>
-  xxxx
-  <tbody>
-  llllll
     <tr>
       <td >Manhã - 1ª aula<br>7:30 - 8:20</td>
       <td >Coordenação</td>
@@ -164,5 +157,4 @@ nnn
       <td ></td>
       <td ></td>
     </tr>
-  </tbody>
   </table>
