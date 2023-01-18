@@ -1,0 +1,26 @@
+## Topnav single links
+## if you want to list an external url, use external_url instead of url. the theme will apply a different link base.
+topnav:
+- title: Topnav
+  items:
+    - title: Home
+      external_url: http://angelitazanella.github.io/
+    - title: Blog
+      url: /news
+
+#Topnav dropdowns
+topnav_dropdowns:
+- title: Topnav dropdowns
+  folders:
+    - title: Cursos
+      folderitems:
+        - title: Ciência da Computação
+          #external_url: http://angelitazanella.github.io/
+        - title: Pedagogia
+          #external_url: http://angelitazanella.github.io/
+        - title: Técnico em Informática
+          #external_url: http://angelitazanella.github.io/
+ 
+        
+
+# Copyright 2021 Google LLC
