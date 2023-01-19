@@ -113,6 +113,9 @@ description: "Descrição da página aqui"
 # url: http://idratherbewriting.com
 # baseurl: /documentation-theme-jekyll
 
+plugins:
+  - jemoji
+
 
 github: [metadata]
 

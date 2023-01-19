@@ -119,3 +119,44 @@ li.sidebarTitle {
 .navbar-inverse .navbar-toggle {
     border-color: #bd3a07;
 }
+
+.horario {
+    font-size: 12px;
+    text-align: center;    
+}
+
+.horario td{
+    vertical-align: middle;
+    width: 120px;
+    border-left: 1px solid #ddd;;
+}
+.l1 {
+    font-weight: bold;
+}
+
+.color1{
+    background-color:#aed6f1
+  }
+  .color2{
+    background-color:#d5f5e3
+  }
+  .color3{
+    background-color: #edbb99
+  }
+  .color4{
+    background-color: #fcf3cf
+  }
+  .color5{  
+    background-color: #fadbd8
+  }
+  .color6{
+    background-color: #d6cada
+  }
+  .color7 {
+    background-color:#a3c5aa;
+  }
+
+  .color8 {
+    background-color: #bdbbbb;
+  }
+  
