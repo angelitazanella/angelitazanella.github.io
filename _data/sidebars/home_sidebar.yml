@@ -49,23 +49,23 @@ entries:
     folderitems:
 
     - title: Redes de Computadores I
-      url: /mydoc_release_notes_60.html
+      url: /redes1.html
       output: web, pdf
 
     - title: Redes de Computadores II 
-      url: /mydoc_release_notes_50.html
+      url: /redes2.html
       output: web, pdf
     
     - title: Segurança de Sistemas
-      url: /mydoc_release_notes_50.html
+      url: /seguranca.html
       output: web, pdf
 
     - title: Infra-as-Code
-      url: /mydoc_release_notes_50.html
+      url: /iac.html
       output: web, pdf
     
     - title: Contêiners
-      url: /mydoc_release_notes_50.html
+      url: /conteiners.html
       output: web, pdf
 
   - title: Técnico em Informática
