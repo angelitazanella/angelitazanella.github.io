@@ -1,18 +1,17 @@
 ---
-title: "Redes de Computadores II"
-keywords: redes1
-last_updated: 31 de janeiro de 2023 
-tags: [redes1]
+title: "Projeto de Redes de Computadores II"
+keywords: redes2 projeto
+last_updated: 01 de fevereiro de 2023 
+tags: [redes2 projeto]
 sidebar: home_sidebar
-permalink: redes2.html
-summary: Página da disciplina Redes de Computadores II
+permalink: /projeto.html
+summary: Projeto da disciplina Redes de Computadores II 
 ---
+[Voltar](/redes2.html)
 
-## Aula 1 (06/02/2023)
+:mortar_board:
 
-[Projeto](projeto.html)
-
-### Projeto
+### Descrição
 Criar a estrutura interna do provedor de serviços (ISP). 
 Ele deverá possuir servidores, roteadores e switches. 
 Sua rede interna possui os seguintes colaboradores: 
