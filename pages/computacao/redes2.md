@@ -7,23 +7,26 @@ sidebar: home_sidebar
 permalink: redes2.html
 summary: Página da disciplina Redes de Computadores II
 ---
-
-## Aula 1 (06/02/2023)
-
 [Projeto](projeto.html)
 
-### Projeto
-Criar a estrutura interna do provedor de serviços (ISP). 
-Ele deverá possuir servidores, roteadores e switches. 
-Sua rede interna possui os seguintes colaboradores: 
-- 3 desenvolvedores
-- 3 security officer
-- 3 analistas de infraestrutura
-- 3 analistas de serviços
-- 2 suportes
-- 1 secretária
-- 1 CEO
-- 1 CTO 
-- 2 financeiros. 
+## Aula 1 (06/02/2023)
+- Revisão de conteúdo 
+    - Modelo OSI e TCP
+    - Processo de comunicação
+    - Camada física do Modelo OSI
+- [Atividade 1 - Projeto](projeto.html)
 
-Faça uma representação gráfica da empresa.
+## Aula 2 (08/02)
+- Revisão de conteúdo 
+    - Camada de enlace do Modelo OSI
+    - Meios físicos
+    - Equipamentos de rede
+- [Atividade 2 - Projeto](projeto.html)
+
+## Aula 3 (13/02)
+- Revisão de conteúdo
+    - Camada de Rede
+        - Serviços fornecidos pela camada de rede
+        - Roteamento
+        - Endereçamento
+- [Atividade 3 - Projeto](projeto.html)

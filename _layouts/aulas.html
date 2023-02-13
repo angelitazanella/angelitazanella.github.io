@@ -1,0 +1,31 @@
+---
+layout: page
+---
+<article class="aula">
+
+  <h1>Disciplina: {{ page.disciplina }}</h1>
+
+  <div class="topico {{ page.topico | downcase }}">
+    {{ page.topico }}
+  </div>
+
+  <div class="idaula {{ page.idaula | downcase }}">
+    {{ page.idaula }}
+  </div>
+
+  <div>
+    {{content}}
+    Teste
+    <div class="tags">
+        {% if page.tags != null %}
+        <b>Tags: </b>
+        {% assign projectTags = site.data.tags.allowed-tags %}
+        {% for tag in page.tags %}
+        {% if projectTags contains tag %}
+        <a href="{{ "tag_" | append: tag | append: ".html" }}" class="btn btn-default navbar-btn cursorNorm" role="button">{{page.tagName}}{{tag}}</a>
+        {% endif %}
+        {% endfor %}
+        {% endif %}
+    </div>
+  </div>
+</article>

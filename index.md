@@ -30,6 +30,3 @@ Sou professora no IFC *campus* Videira desde 2010, atuando nos cursos técnico e
 
 ### Licenciatura em Pedagogia
 - Tecnologias Digitais da Informação e Comunicação
-
-
-{% include links.html %}

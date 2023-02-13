@@ -62,6 +62,9 @@ kramdown:
 collections:
   tooltips:
     output: false
+  seguranca:
+    output: true
+    permalink: /seguranca/:idaula
 # collections are declared here. this renders the content in _tooltips and processes it, but doesn't output it as actual files in the output unless you change output to true
 
 defaults:
@@ -106,7 +109,7 @@ sidebars:
 - product2_sidebar
 - other
 
-description: "Descrição da página aqui"
+description: "Página pessoal de Angelita Rettore de Araujo Zanella"
 # the description is used in the feed.xml file
 
 # needed for sitemap.xml file only
@@ -115,7 +118,6 @@ description: "Descrição da página aqui"
 
 plugins:
   - jemoji
-
 
 github: [metadata]
 
