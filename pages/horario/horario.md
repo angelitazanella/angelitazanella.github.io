@@ -22,8 +22,7 @@ summary: Horários do primeiro semestre de 2023.
       <td class="color2" rowspan="3">GBCC - 7ª. fase<br><br><b>Optativa: Tópicos especiais em Informática</b></td>
       <td rowspan="5" class="color8">Planejamento</td>
       <td class="color1" rowspan="3">GBCC - 7a. fase<br><br><b>Segurança de Sistemas</b></td>      
-      <td class="color1" rowspan="3">GBCC - 7a. fase<br><br><b>Segurança de Sistemas</b></td>      
-      <!--<td class="color7" rowspan="3">Coordenação</td>-->
+      <td class="color7" rowspan="3">Coordenação</td>
       <td ></td>      
     </tr>
     <tr>
