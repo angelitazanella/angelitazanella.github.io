@@ -34,6 +34,11 @@ $ ping google.com
 - Quais foram as respostas retornadas pelo servidor?
 
 ## Relatório
-Monte um relatório descrevendo o seu experimento. 
+Monte um relatório descrevendo o seu experimento. Seu relatório deverá seguir o [modelo](download/ModeloRelatorio.zip).
+
+
+[Modelo de Relatório](download/ModeloRelatorio.zip)
+
+---
 
 [Voltar](/redes2.html)

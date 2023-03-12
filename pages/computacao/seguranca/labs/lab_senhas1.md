@@ -8,6 +8,9 @@ permalink: /lab_senhas1.html
 summary: Laboratório quebra de senhas
 ---
 
+[Voltar](/seguranca.html)
+
+
 ## Preparação
 Realize este experimento dentro da máquina Kali Linux.
 
@@ -18,7 +21,7 @@ Realize este experimento dentro da máquina Kali Linux.
 $ zip2john senhas.zip > hash.txt
 $ john hash.txt
 ```
-3. Depois de obter a senha descompacte o arquivo
+3. Depois de obter a senha, descompacte o arquivo:
 ```bash
 $ unzip senhas.zip
 ```
@@ -26,14 +29,15 @@ $ unzip senhas.zip
 ```bash
 $ john --format=raw-md5 senhas.txt 
 ```
+5. Agora teste você mesmo. Gere um conjunto de [hash](https://www.md5hashgenerator.com/) de senhas e guarde em um arquivo txt. Primeiro teste senhas curtas e fáceis.  Depois você pode repetir o experimento, adicionando senhas mais complexas.
+6. Após guardar a senha em um arquivo texto, você pode executar o o comando `john` para tentar descobrir as senhas.
 
-## Tarefa de programação
-5. Crie um script para gerar senhas usando salt. Escolha um algoritmo seguro.
+## Dicas
+- Para criar um arquivo compactado com senha no Linux, use o comando:
+```bash
+$ zip -re [file.zip] file.txt
+```
+- Quando o `john` não mostrar a senha, use a opção `--show`
 
-## Portfolio
-6. Adicione ao seu portfolio o conteúdo sobre autenticação. Seu conteúdo deve conter:
-- Uma definição sobre autenticação e sua importância;
-- Informações sobre os requisitos básicos: identificação e autenticação
-- Informação sobre requisitos derivados.
 
-*Obs: Use como referência o livro: Segurança de Computadores - princípios e práticas* 
+[Voltar](/seguranca.html)

@@ -38,4 +38,8 @@ Observe que existem vários arquivos. A partir daqui você deverá pesquisar com
 ## Relatório
 No seu relatório adicione todos os procedimentos seguidos para executar a configuração e informe os conteúdos completos dos arquivos configurados. Você deverá explicar o significado das configurações adicionadas ou alteradas nos arquivos.
 
+[Modelo de Relatório](download/ModeloRelatorio.zip)
+
+---
+
 [Voltar](/redes2.html)
