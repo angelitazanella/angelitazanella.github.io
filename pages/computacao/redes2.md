@@ -57,6 +57,7 @@ summary: Página da disciplina Redes de Computadores II
 ---
 ### Aula 7 (08/03)
 - Serviços: DHCP
+- [Laboratório DHCP](lab_dhcp.html)
 
 ---
 ### Aula 8 (13/03)
