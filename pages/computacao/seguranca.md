@@ -107,15 +107,17 @@ Portfolio: Playbooks de segurança
 
 ### Aula 10 (15/03)
 - [Proteção de desktops](seguranca_desktop.html)
-- [Controle de Acesso](controle_de_acesso.html)
-
-#### Laboratório
-- [Laboratório: controle de acesso - restrições de acesso](lab_controle_acesso1.html)
 
 #### Tarefa
 - Integração de conhecimentos: política de segurança baseada em papéis
 
 ### Aula 11 (16/03)
+- [Controle de Acesso](controle_de_acesso.html)
+
+#### Laboratório
+- [Laboratório: controle de acesso - restrições de acesso](lab_controle_acesso1.html)
+
+### Aula 12 (22/03)
 - [Autenticação](autenticacao.html)
 
 #### Laboratório
@@ -124,10 +126,8 @@ Portfolio: Playbooks de segurança
 #### Tarefas
 - [Tarefa senhas](tarefa_senhas1.html)
 
-### Aula 12 (22/03)
-- Proteção de dados
-
 ### Aula 13 (23/03)
+- Proteção de dados
 - Segurança mobile
 
 ## Módulo 4: Segurança de perímetro
