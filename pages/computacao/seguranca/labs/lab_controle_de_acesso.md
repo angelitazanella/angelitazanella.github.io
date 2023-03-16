@@ -71,7 +71,7 @@ $  chown usuario1 /home/diretorio_restrito
 8. Use o comando `chmod 770 [nome do diretório]` para definir as permissões de acesso do diretório. O número `770` significa que o proprietário e o grupo têm permissões de leitura, gravação e execução, enquanto outros usuários não têm nenhuma permissão. 
 ```bash
 $  chmod 770 /home/diretorio_restrito
-```´
+```
 
 ### Passo 5: Verifique as novas permissões de acesso
 9.  Use o comando `ls -l` novamente para verificar as novas permissões de acesso do diretório.
@@ -89,7 +89,7 @@ $  chmod 770 /home/diretorio_restrito
 - Use o comando `whoami` para saber qual é o seu usuário.
 - Use o comando `pwd` para saber em qual diretório você está.
 - Use o comando `touch [nome_do_arquivo]` para criar novos arquivos.
-
+- Use o comando `getent group [nome_do_grupo]` para ver quais usuários pertencem a um grupo.
 
 ----
 
