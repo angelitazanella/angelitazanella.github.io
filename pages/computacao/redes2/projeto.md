@@ -43,4 +43,37 @@ Defina os IPs privados utilizados em cada cliente e no seu ISP.
 
 No ISP,  você deverá criar redes privadas distintas para os desenvolvedores, DATACENTER, administrativo (CIO, CEO e financeiros), atendimento (suporte e secretária), security officer, infraestrutura e serviços de rede.
 
+
+### Parte Prática - Serviços
+**Serviço DNS**
+
+O ISP possui um servidor DNS que provê as configurações para os domínios e subdomínios do próprio ISP e dos seus clientes.
+Para executar a parte prática do projeto, você deverá utilizar máquinas virtuais ou contêineres, todos trabalhando na mesma rede.
+As descrições consideram que você irá trabalhar com contêineres `docker`, mas você é libre para escolher o ambiente em que irá trabalhar.
+
+O primeiro passo é criar a rede em que você irá trabalhar.
+
+#### Criando a rede no docker
+
+Para criar sua rede no docker utilize o seguinte comando:
+
+```bash
+$ docker network create --subnet=172.29.0.0/24 nome_da_rede
+```
+
+O endereço o comando `--subnet=172.29.0.0/24`  informa o IP e o prefixo da rede em que você irá trabalhar. Ajuste esse endereço para trabalhar na rede que você pré-configurou no seu projeto. O `nome_da_rede` que aparece no final do comando contém o nome que você atribuiu para a rede. A partir daqui, os exemplos irão considerar que a rede se chama `projetoredes` .
+
+Você pode verificar as informações da rede pelo seguinte comando:
+```bash
+$ docker inspect nome_da_rede
+```
+
+#### Criando o serviço DNS
+Agora você deverá configurar o nosso servidor DNS. Comece criando um diretório onde você irá armazenar os arquivos de configuração na máquina hospedeira. Eu vou criar o diretório `dns` na minha máquina `linux`.
+```bash
+$ mdkir dns
+```
+
+Agora siga os passos do roteiro [Projeto - Serviço DNS](/projeto_dns.html) para criar o serviço DNS.
+
 [Voltar](/redes2.html)

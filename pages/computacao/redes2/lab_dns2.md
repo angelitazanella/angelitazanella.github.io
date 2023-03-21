@@ -14,17 +14,10 @@ summary: script para execução de um laboratório DNS
 1. Para este laboratório você irá urilizar um contêiner com o `Bind9` instalado. 
 
 ```bash
-$ docker run -d --name bind9-container -e TZ=UTC -p 30053:53 ubuntu/bind9:9.18-22.04_beta
+$ docker run -d --name bind9-container -v ${PWD}:/home -e TZ=UTC -p 30053:53 ubuntu/bind9
 
 $ docker exec -it bind9-container /bin/bash
 ```
-2. Você precisará instalar um editor para manipular os arquivos. Dentro do contêiner, execute os seguintes comandos para instalar o editor `nano`:
-
-```bash
-$ apt update
-$ apt install nano
-```
-
 
 ## Configuração do DNS
 Os arquivos de configuração deste serviço ficam no diretório `/etc/bind`. Entre na pasta e liste os arquivos:
