@@ -127,8 +127,18 @@ Portfolio: Playbooks de segurança
 - [Tarefa senhas](tarefa_senhas1.html)
 
 ### Aula 13 (23/03)
-- Proteção de dados
-- Segurança mobile
+- [Proteção de dados](protecao_de_dados_pessoais.html)
+- [Segurança mobile](seguranca_mobile.html)
+
+#### Portfolio
+- [Segurança mobile](portfolio_seguranca_mobile.html)
+
+### Aula 14 (29/03)
+- Vírus e malwares
+
+#### Rubrica
+- Vírus e malwares
+
 
 ## Módulo 4: Segurança de perímetro
 - Conteúdo
