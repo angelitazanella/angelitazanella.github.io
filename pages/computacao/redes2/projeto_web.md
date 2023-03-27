@@ -1,5 +1,5 @@
 ---
-title: "Projeto - Serviço DNS"
+title: "Projeto - Serviço Web"
 keywords: dns
 last_updated: 21 de março de 2023 
 tags: [dns projeto]
