@@ -137,8 +137,7 @@ Portfolio: Playbooks de segurança
 - Vírus e malwares
 
 #### Rubrica
-- Vírus e malwares
-
+- [Vírus e malwares](rubrica_virus.html)
 
 ## Módulo 4: Segurança de perímetro
 - Conteúdo
@@ -148,6 +147,27 @@ Portfolio: Playbooks de segurança
    - Ataques comuns à DMZ e ferramentas de proteção
    - Ataques de Negação de Serviços
 - Integração de Conhecimentos: 13/04
+
+### Aula 15 (30/03)
+- Firewall
+
+### Aula 16 (05/04)
+   - Sistemas de Detecção de Intrusão (IDS)
+   - Sistemas de Prevenção de Intrusão (IPS)
+
+### Aula 17 (06/04)
+   - Ataques comuns à DMZ e ferramentas de proteção
+
+### Aula 18 (12/04)
+   - Ataques de negação de serviço
+      - ataques 
+      - clássicos
+      - spoofing
+      - flooding
+      - DDoS
+      - ataques refletores e amplificadores
+      - defesas e contramedidas							
+
 
 ## Módulo 5: Segurança de software
 - Conteúdo
