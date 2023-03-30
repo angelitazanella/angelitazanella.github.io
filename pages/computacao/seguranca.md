@@ -150,6 +150,7 @@ Portfolio: Playbooks de segurança
 
 ### Aula 15 (30/03)
 - Firewall
+- [Simulador](downloads/Firewall Visualization Tool.jar)
 
 ### Aula 16 (05/04)
    - Sistemas de Detecção de Intrusão (IDS)
@@ -166,7 +167,7 @@ Portfolio: Playbooks de segurança
       - flooding
       - DDoS
       - ataques refletores e amplificadores
-      - defesas e contramedidas							
+      - defesas e contramedidas	
 
 
 ## Módulo 5: Segurança de software
