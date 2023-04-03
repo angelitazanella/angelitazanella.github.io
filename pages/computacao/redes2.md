@@ -70,5 +70,5 @@ summary: Página da disciplina Redes de Computadores II
     - [Laboratório 2 - DNS](lab_dns2.html)
 
 
-### 3/4
+### Aula 14 (3/4)
 - [FTP/SSH/SAMBA](lab_ftp.html)
