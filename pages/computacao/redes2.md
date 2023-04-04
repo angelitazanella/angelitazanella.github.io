@@ -69,6 +69,30 @@ summary: Página da disciplina Redes de Computadores II
 - DNS 
     - [Laboratório 2 - DNS](lab_dns2.html)
 
+### Aula 10 (13/03)
+- DNS 
+    - [Projeto](projeto_dns.html)
 
-### Aula 14 (3/4)
+### Aula 11 (11/03)
+- DNS 
+    - [Projeto](projeto_dns.html)
+
+### Aula 12 (27/03)
+- Web
+    - [Projeto](projeto_web.html)
+
+### Aula 13 (27/03)
+- Web (HTTPS)
+    - [Projeto](projeto_web.html)
+
+### Aula 14 (03/04)
 - [FTP/SSH/SAMBA](lab_ftp.html)
+
+### Aula 15 (05/04)
+- e-mail - SMTP
+
+### Aula 16 (10/04)
+- e-mail - POP e IMAP
+
+### Aula 17 (12/04)
+- Visita técnica BRDrive
