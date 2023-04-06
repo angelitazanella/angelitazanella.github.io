@@ -77,9 +77,21 @@ $ mdkir dns
 Agora siga os passos do roteiro [Projeto - Serviço DNS](/projeto_dns.html) para criar o serviço DNS.
 
 
-#### Criando o serviço web
+#### [Criando o serviço web] (#web)
 
 [Projeto - Serviço web](/projeto_web.html) 
+
+#### Atualização do DNS para inclusão de entrada MX
+
+Para que o email da sua instituição possa trabalhar adequadamente com o email, é preciso configurar entradas MX no email.
+Nosso ISP possui 3 servidores de email, utilizados de forma síncrona para balanceamento de carga. Confiure as seguintes entrdas MX:
+
+| Registro MX        | Prioridade |
+|--------------------|:------------:|
+| mx.angelita.co     |     10     |
+| mx2.angelita.co    |     20     |
+| mx3.angelita.co    |     30     |
+
 
 
 

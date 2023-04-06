@@ -5,7 +5,6 @@ last_updated: 31 de janeiro de 2023
 tags: [segurança]
 sidebar: home_sidebar
 permalink: seguranca.html
-summary: Página da disciplina Segurança de Sistemas
 ---
 
 ## Módulo 1: Conceitos Gerais
@@ -156,10 +155,11 @@ Portfolio: Playbooks de segurança
    - Sistemas de Detecção de Intrusão (IDS)
    - Sistemas de Prevenção de Intrusão (IPS)
 
-### Aula 17 (06/04)
-   - Ataques comuns à DMZ e ferramentas de proteção
+### Aula 17 (12/04)
+   -  Visita técnica BRDrive
 
-### Aula 18 (12/04)
+### Aula 18 (13/04)
+   - Ataques comuns à DMZ e ferramentas de proteção
    - Ataques de negação de serviço
       - ataques 
       - clássicos
@@ -169,6 +169,8 @@ Portfolio: Playbooks de segurança
       - ataques refletores e amplificadores
       - defesas e contramedidas	
 
+### Aula 19 (19/04)
+- Avaliação: IC - segurança de perímetro
 
 ## Módulo 5: Segurança de software
 - Conteúdo
@@ -179,6 +181,22 @@ Portfolio: Playbooks de segurança
    - Programação defensiva. 
 - Integração de Conhecimentos: 26/04
 
+### Aula 19 (19/04)
+- OWASP Top 10: as principais vulnerabilidades de segurança em aplicativos web. 	
+
+### Aula 20 (20/04)
+- Falhas mais perigosas de software (SANS). 
+- Recomendações NIST. 								
+
+### Aula 21 (26/04)
+- Segurança, Qualidade e Confiabilidade de Software. 
+- Programação defensiva. 
+- Security by design.							
+
+### Aula 22 (27/04)
+- Avaliação: IC 1 - segurança de software 
+   - Vulnerabilidaes em bibliotecas.
+   - Estudo de caso: conversores HTML para PDF							
 
 ## Módulo 6: Segurança na nuvem
 - Conteúdo:
@@ -187,3 +205,18 @@ Portfolio: Playbooks de segurança
    - Web descentralizada
    - Provedores de serviço. 
 - Integração de Conhecimentos: 10/05
+
+### Aula 23 (03/05)
+- Nuvem: Oportunidades e Desafios							
+
+### Aula 24 (03/05)
+- Metaverso 
+- Web Descentralizada
+
+### Aula 25 (10/05)
+- Provedores de serviços. 
+   - Estudo de caso: AWS.							
+
+### Aula 26 (11/05)
+- Avaliação: IC1 - nuvem
+
