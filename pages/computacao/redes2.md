@@ -108,11 +108,13 @@ summary: Página da disciplina Redes de Computadores II
 
 ---
 ### Aula 18 (17/04)
-- Peer-to-Peer
+- [Peer-to-Peer](/p2p.html)
+- [Atividades P2P](/p2p-atividades.html)
 
 ---
 ### Aula 19 (19/04)
-- Video Streamming							
+- [Video Streamming](video-streaming.html)
+- [Atividades](video-streaming-atividades.html)
 
 ---
 ### Aula 20 (24/04)
