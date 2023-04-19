@@ -30,6 +30,7 @@ Considerando as características e desafios das redes P2P, é correto afirmar qu
 - c) exigir uma infraestrutura de rede com alta capacidade de processamento e grande quantidade de memória RAM;
 - d) permitir que cada um dos nós da rede possa atuar como servidor e cliente ao mesmo tempo;
 - e) ser recomendada para redes com alto volume de tráfego e grande número de clientes.
+
 <!-- resposta: A resposta correta para a pergunta é d) permitir que cada um dos nós da rede possa atuar como servidor e cliente ao mesmo tempo. A característica fundamental de uma rede P2P é que cada dispositivo conectado à rede pode atuar como um cliente e servidor ao mesmo tempo, compartilhando recursos, arquivos e informações com outros dispositivos na rede. A opção a) está incorreta, pois uma rede P2P não possui um único servidor central, mas sim uma interconexão entre todos os dispositivos na rede. A opção b) pode ser verdadeira em alguns casos, mas não é uma característica inerente às redes P2P. A opção c) está incorreta, pois as redes P2P não exigem necessariamente uma infraestrutura de rede com alta capacidade de processamento e grande quantidade de memória RAM. A opção e) também está incorreta, pois as redes P2P podem ser utilizadas em redes com baixo volume de tráfego e número reduzido de clientes. -->
 
 **Questão 3.** Em uma arquitetura peer-to-peer, pode-se afirmar que:
@@ -38,9 +39,8 @@ Considerando as características e desafios das redes P2P, é correto afirmar qu
 - c) a distribuição de arquivos é feita somente a partir de um nó central que controla o acesso;
 - d) a escalabilidade do sistema é garantida pela centralização do acesso aos recursos;
 - e) a segurança dos dados é garantida pela criptografia utilizada pelo nó central.
-<!-- A resposta correta para essa questão é a letra A: "os recursos computacionais e a capacidade de armazenamento são limitados pelos recursos de cada nó".
 
-Em uma arquitetura P2P, cada nó da rede é responsável por armazenar e compartilhar recursos, como arquivos e dados, sem a necessidade de um servidor central. Isso significa que a capacidade de armazenamento e os recursos computacionais disponíveis em uma rede P2P dependem dos recursos de cada nó individual, tornando-os limitados. Além disso, em uma rede P2P, é necessário um sistema de gerenciamento de recursos para permitir a localização e acesso aos recursos compartilhados pelos nós. A centralização do acesso aos recursos pode reduzir a escalabilidade do sistema, e a segurança dos dados depende das medidas de segurança adotadas pelos nós individuais na rede. -->
+<!-- A resposta correta para essa questão é a letra A: os recursos computacionais e a capacidade de armazenamento são limitados pelos recursos de cada nó. Em uma arquitetura P2P, cada nó da rede é responsável por armazenar e compartilhar recursos, como arquivos e dados, sem a necessidade de um servidor central. Isso significa que a capacidade de armazenamento e os recursos computacionais disponíveis em uma rede P2P dependem dos recursos de cada nó individual, tornando-os limitados. Além disso, em uma rede P2P, é necessário um sistema de gerenciamento de recursos para permitir a localização e acesso aos recursos compartilhados pelos nós. A centralização do acesso aos recursos pode reduzir a escalabilidade do sistema, e a segurança dos dados depende das medidas de segurança adotadas pelos nós individuais na rede. -->
 
 **Questão 4.** Uma arquitetura de rede de computadores conhecida como P2P (peer-to-peer) é caracterizada por:
 - a) todos os nós da rede se comunicarem com um único nó central, que gerencia todas as informações;
@@ -58,7 +58,7 @@ Em uma arquitetura P2P, cada nó da rede é responsável por armazenar e compart
 - e) os recursos computacionais e a capacidade de armazenamento são limitados pelos recursos de cada nó.
 <!-- A resposta correta é a letra A) não há necessidade de um sistema de gerenciamento de recursos, já que cada nó é autônomo. Em uma arquitetura peer-to-peer, cada nó tem a capacidade de compartilhar recursos com outros nós, e todos os nós podem atuar como clientes e servidores ao mesmo tempo. Dessa forma, não há necessidade de um nó central para gerenciar os recursos da rede. No entanto, é importante lembrar que os recursos computacionais e a capacidade de armazenamento são limitados pelos recursos de cada nó. -->
 
-**Questão 6.* Considere uma rede P2P com 6 nós, numerados de 1 a 6. Cada nó possui um arquivo que pode ser compartilhado com outros nós na rede. Suponha que o nó 1 deseje baixar o arquivo do nó 6, mas nenhum dos outros nós na rede possui esse arquivo. A rede usa uma tabela DHT para localizar os arquivos. Considere a tabela DHT mostrada abaixo:
+**Questão 6.** Considere uma rede P2P com 6 nós, numerados de 1 a 6. Cada nó possui um arquivo que pode ser compartilhado com outros nós na rede. Suponha que o nó 1 deseje baixar o arquivo do nó 6, mas nenhum dos outros nós na rede possui esse arquivo. A rede usa uma tabela DHT para localizar os arquivos. Considere a tabela DHT mostrada abaixo:
 
 | ID do nó	| ID da chave |
 |   :---:   |    :---:    |
