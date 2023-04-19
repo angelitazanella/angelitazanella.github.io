@@ -86,7 +86,7 @@ Portfolio: Playbooks de segurança
    - criptografia simétrica e assimétrica			
 
 #### Tarefas  (ver descrição no siga)
-- Criptografia e senhas				
+- [Criptografia e senhas](tarefa_senhas1.html)
 
 ### Aula 9 (09/03)
 - Crifras de fluxo e de bloco. 
