@@ -39,15 +39,15 @@ permalink: /video-streaming-atividades.html
 **Questão 5.** Em um sistema de entrega de vídeo por streaming, o servidor divide o vídeo em segmentos e os envia para o cliente em intervalos regulares. Considere um vídeo com uma taxa de bits de 6 Mbps e um tamanho de segmento de 2 segundos. O cliente deseja reproduzir o vídeo em uma taxa de quadros de 30 fps.
 - a) Qual é o tamanho do segmento em bytes?
 <!-- 6 Mbps * 2 s / 8 bits por byte = 1.5 MB -->
-b) Qual é a taxa de bits do segmento em bytes por segundo?
+- b) Qual é a taxa de bits do segmento em bytes por segundo?
 <!-- 1.5 MB / 2 s = 750 KB/s -->
-c) Qual é o número de quadros em cada segmento?
+- c) Qual é o número de quadros em cada segmento?
 <!-- 30 fps * 2 s = 60 quadros-->
-d) Qual é o tamanho de cada quadro em bytes?
+- d) Qual é o tamanho de cada quadro em bytes?
 <!-- 1.5 MB / 60 quadros = 25 KB -->
-e) Qual é o tamanho total do segmento em bytes?
+- e) Qual é o tamanho total do segmento em bytes?
 <!-- 1.5 MB -->
-f) Qual é a duração do segmento em milissegundos?
+- f) Qual é a duração do segmento em milissegundos?
 <!-- 2 s * 1000 ms/s = 2000 ms -->
-g) Qual é a taxa de transferência necessária do servidor para enviar o segmento em tempo real?
+- g) Qual é a taxa de transferência necessária do servidor para enviar o segmento em tempo real?
 <!-- 1.5 MB / 2 s = 6 Mbps -->
