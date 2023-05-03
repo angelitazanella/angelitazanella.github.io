@@ -132,6 +132,10 @@ summary: Página da disciplina Redes de Computadores II
 ### Aula 21 (26/04)
 - Multiplexação e demultiplexação	
 
+#### Simulações
+- [Wireshark - UDP](https://drive.google.com/file/d/16fW5apcSwKwkJ3iglmfw2FWzxGmNojiW/view?usp=share_link)
+- [Wireshark - TCP](https://drive.google.com/file/d/1hlVGB83156qlG4kyJJQYvtqc7iUiVVdE/view?usp=share_link)
+
 ### Aula 22 (03/05)
 - Protocolos sem conexão x Protocolos orientados a conexão - estrutura do segmento					
 
