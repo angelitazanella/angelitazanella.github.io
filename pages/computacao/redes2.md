@@ -142,6 +142,8 @@ summary: Página da disciplina Redes de Computadores II
 ### Aula 23 (08/05)
 - Protocolos orientados a conexão
   - Conexão e temporização
+- Socket [servidor](socket_server.md)
+- Socket [cliente](socket_client.md)
 
 ### Aula 24 (10/05)
 - Protocolos orientados a conexão
