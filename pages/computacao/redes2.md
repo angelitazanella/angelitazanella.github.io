@@ -130,20 +130,20 @@ summary: Página da disciplina Redes de Computadores II
 
 ## Módulo IV: Protocolos da Camada de Transporte
 ### Aula 21 (26/04)
+- Revisão da prova
+
+### Aula 22 (03/05)
 - Multiplexação e demultiplexação	
 
 #### Simulações
 - [Wireshark - UDP](https://drive.google.com/file/d/16fW5apcSwKwkJ3iglmfw2FWzxGmNojiW/view?usp=share_link)
 - [Wireshark - TCP](https://drive.google.com/file/d/1hlVGB83156qlG4kyJJQYvtqc7iUiVVdE/view?usp=share_link)
 
-### Aula 22 (03/05)
-- Protocolos sem conexão x Protocolos orientados a conexão - estrutura do segmento					
 
 ### Aula 23 (08/05)
-- Protocolos orientados a conexão
-  - Conexão e temporização
-- Socket [servidor](socket_server.md)
-- Socket [cliente](socket_client.md)
+- Protocolos sem conexão x Protocolos orientados a conexão - estrutura do segmento					
+- Protocolos orientados a conexão  
+- [Socket](socket_example.html)
 
 ### Aula 24 (10/05)
 - Protocolos orientados a conexão
