@@ -180,7 +180,7 @@ summary: Página da disciplina Redes de Computadores II
     - Principais funções para programação de sockets
 
 ### Aula 31 (05/06)
-- Trabalho Socket
+- [Trabalho Socket](programacao.html)
 
 ### Aula 32 (07/06)
 - Trabalho Socket
