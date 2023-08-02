@@ -68,6 +68,10 @@ entries:
       url: /conteiners.html
       output: web, pdf
 
+    - title: Orientações de TCC
+      url: /tcc.html
+      output: web, pdf
+      
   - title: Técnico em Informática
     output: web, pdf
     folderitems:

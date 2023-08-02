@@ -1,7 +1,7 @@
 ---
 title: "Quadro de Horários"
 keywords: horario
-last_updated: 18 de janeiro de 2023 
+last_updated: 2 de agosto de 2023 
 tags: [horario]
 sidebar: home_sidebar
 permalink: horario.html

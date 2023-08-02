@@ -77,7 +77,7 @@ $ mdkir dns
 Agora siga os passos do roteiro [Projeto - Serviço DNS](/projeto_dns.html) para criar o serviço DNS.
 
 
-#### [Criando o serviço web] (#web)
+#### Criando o serviço web
 
 [Projeto - Serviço web](/projeto_web.html) 
 
