@@ -7,7 +7,18 @@ sidebar: home_sidebar
 permalink: redes2.html
 summary: Página da disciplina Redes de Computadores II
 ---
-[Projeto](projeto.html)
+
+- Serviços: DHCP
+- [Laboratório DHCP](lab_dhcp.html)
+
+- DNS 
+    - [Introdução a DNS](dns.html)
+    - [Laboratório 1 - DNS](lab_dns1.html)
+
+- DNS 
+    - [Laboratório 2 - DNS](lab_dns2.html)
+
+<!-- [Projeto](projeto.html)
 
 ## Módulo I: Revisão de Redes I
 ### Aula 1 (06/02/2023)
@@ -201,7 +212,7 @@ summary: Página da disciplina Redes de Computadores II
 - Apresentação do socket
 
 ### Aula 36 (21/06)
-- Apresentação do socket
+- Apresentação do socket -->
 
 
 

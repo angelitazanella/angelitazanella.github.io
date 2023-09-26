@@ -23,7 +23,7 @@ Sou professora no IFC *campus* Videira desde 2010, atuando nos cursos técnico e
 - Redes de Computadores
 
 ### Bacharelado em Ciência da Computação
-- Redes de Computadores I 
+- [Redes de Computadores I ](https://github.com/info-ifc-vda/redes_1-angelitazanella)
 - Redes de Computadores II
 - Segurança
 - Infrastructure as Code
