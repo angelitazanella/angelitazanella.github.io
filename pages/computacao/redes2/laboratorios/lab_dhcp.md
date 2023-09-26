@@ -7,7 +7,7 @@ sidebar: home_sidebar
 permalink: /lab_dhcp.html
 summary: Atividade de aula - compreendendo o funcionamento do DHCP
 ---
-
+{% include code_header.html %}
 [Voltar](/redes2.html)
 
 
