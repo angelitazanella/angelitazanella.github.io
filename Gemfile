@@ -1,7 +1,5 @@
 source "https://rubygems.org"
 
-ruby '3.1.2'
-
 # to publish on github page
 gem 'github-pages', group: :jekyll_plugins
 
