@@ -61,6 +61,8 @@ Monte um relatório descrevendo o seu experimento. Seu relatório deverá seguir
 ### Documentos
 [Modelo de Relatório](download/ModeloRelatorio.zip)
 
+[Modelo em PDF](download/ModeloRelatorio.pdf)
+
 ---
 
 [Voltar](/redes2.html)
