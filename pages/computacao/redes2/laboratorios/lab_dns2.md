@@ -26,13 +26,23 @@ Os arquivos de configuração deste serviço ficam no diretório `/etc/bind`. En
 $ cd /etc/bind
 $ ls
 ```
-Observe que existem vários arquivos. A partir daqui você deverá pesquisar como configurar o Bind  para responder pelo domínio `angelita.co`. Nós iremos adicionar novas configurações para esse domínio futuramente, mas você já deve prever a existência de um servidor de email e um servidor web, respondendo pelo endereço IP público. Configure entradas de nomes para os servidores acessíveis internamente. 
+Observe que existem vários arquivos. A partir daqui você deverá pesquisar como configurar o Bind  para responder pelo domínio `angelita.corp`. Configure entradas para serviço de e-mail, um servidor `ns` secundário e outros 5 subdomínios. Você deve considerar que todos os servidores irão responder por um endereço IPv4 e um endereço IPv6. Adicione pelo menos duas entradas canônicas. A configuração de dns reverso pode resultar em ponto extra nesta atividade.
 
-## Relatório
-No seu relatório adicione todos os procedimentos seguidos para executar a configuração e informe os conteúdos completos dos arquivos configurados. Você deverá explicar o significado das configurações adicionadas ou alteradas nos arquivos.
+## Arquivos do contêiner
+[Arquivos](download/bind.tar.gz)
 
-### Documentos
-[Modelo de Relatório](download/ModeloRelatorio.zip)
+## Referências
+Aqui estão algumas referências que te ajudarão na execução dessa tarefa:
+
+[Bind](https://www.isc.org/bind/)
+
+[RNP Bind9](https://memoria.rnp.br/newsgen/0105/bind9.html)
+
+<!-- ## Relatório
+No seu relatório adicione todos os procedimentos seguidos para executar a configuração e informe os conteúdos completos dos arquivos configurados. Você deverá explicar o significado das configurações adicionadas ou alteradas nos arquivos. -->
+
+<!-- ### Documentos -->
+<!-- [Modelo de Relatório](download/ModeloRelatorio.zip) -->
 
 ---
 
