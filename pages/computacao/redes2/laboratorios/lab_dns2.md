@@ -29,7 +29,14 @@ $ ls
 Observe que existem vários arquivos. A partir daqui você deverá pesquisar como configurar o Bind  para responder pelo domínio `angelita.corp`. Configure entradas para serviço de e-mail, um servidor `ns` secundário e outros 5 subdomínios. Você deve considerar que todos os servidores irão responder por um endereço IPv4 e um endereço IPv6. Adicione pelo menos duas entradas canônicas. A configuração de dns reverso pode resultar em ponto extra nesta atividade.
 
 ## Arquivos do contêiner
-[Arquivos](download/bind.tar.gz)
+Arquivos do contêiner: [Arquivos](download/bind.tar.gz)
+
+Para construir o contêiner com as suas configurações, utilize o seguinte comando:
+
+```bash
+$ docker build . -t meudns
+```
+
 
 ## Referências
 Aqui estão algumas referências que te ajudarão na execução dessa tarefa:
