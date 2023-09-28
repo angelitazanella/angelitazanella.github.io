@@ -15,9 +15,12 @@ summary: Atividade de aula - compreendendo o funcionamento do DHCP
 1. Baixe o arquivo [wireshark](download/wireshark.sh)
 2. No Linux:
 - Crie o seu diretório com o comando:
+{% capture some_var %}
 ```bash
 $ mkdir [nome_do_diretorio]
 ```
+{% endcapture %}
+
 - Acesse o diretório com o comando:
 ```bash
 $ cd [nome_do_diretorio]

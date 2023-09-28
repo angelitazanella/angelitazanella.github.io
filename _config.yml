@@ -121,5 +121,6 @@ plugins:
 
 github: [metadata]
 
+enable_copy_code_button: true
 
 # Copyright 2021 Google LLC
