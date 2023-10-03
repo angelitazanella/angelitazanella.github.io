@@ -29,7 +29,7 @@ options {
 };
 ```
 
-1. Depois, você deve definir a `zona` chamada `angelita.co` (o nosso domínio) no arquivo de zonas (`named.conf.local`). Pesquise qual é a forma correta de realizar essa configuração. Exemplo:
+1. Depois, você deve definir a `zona` chamada `angelita.corp` (o nosso domínio) no arquivo de zonas (`named.conf.local`). Pesquise qual é a forma correta de realizar essa configuração. Exemplo:
 ```
 zone "[nome_da_zona]" {
     type master;
@@ -77,7 +77,7 @@ RUN apt update \
 # Copy configuration files
 COPY dns/named.conf.options /etc/bind/
 COPY dns/named.conf.local /etc/bind/
-COPY dns/db.angelita.co /etc/bind/zones/
+COPY dns/db.angelita.corp /etc/bind/zones/
 
 # Expose Ports
 EXPOSE 53/tcp
@@ -118,8 +118,8 @@ $ docker exec -it dns-master /bin/bash
 Os arquivos de configuração do DNS estão no diretório `/etc/bind`.
 
 ## Configuração DNS do ISP
-1. Configure o seu DNS para responder pelo domínio `angelita.co`. Configure corretamente a `zona` e a(s) entrada(s) `ns`.
-2. Adicione um endereço para ser utilizado pela página web `www.angelita.co` que usaremos na próxima aula.
+1. Configure o seu DNS para responder pelo domínio `angelita.corp`. Configure corretamente a `zona` e a(s) entrada(s) `ns`.
+2. Adicione um endereço para ser utilizado pela página web `www.angelita.corp` que usaremos na próxima aula.
 3. Adicione entradas para outros serviços acessíveis externamente, desde que você tenha previsto no seu projeto. Por enquanto, não adicione nenhuma entrada para email.
 4. Utilize os comandos `named-checkconf` e `named-checkzone nome_do_dominio arquivo_de_configuracao` para verificar se as configurações que você criou estão corretas.
 

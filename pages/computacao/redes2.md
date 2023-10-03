@@ -15,6 +15,7 @@ summary: Página da disciplina Redes de Computadores II
     - [Introdução a DNS](dns.html)
     - [Laboratório 1 - DNS](lab_dns1.html)
     - [Laboratório 2 - DNS](lab_dns2.html)
+    - [Projeto DNS](projeto_dns.html)
 
 <!-- [Projeto](projeto.html)
 
