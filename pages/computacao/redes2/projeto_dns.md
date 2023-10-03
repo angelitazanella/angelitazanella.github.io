@@ -57,13 +57,15 @@ service1.domain.        IN      A      IPADDR
 service2                IN      A      IPADDR
 ```
 
-A configuração do exemplo considera apenas endereços IPv4. Na defesa do projeto você deverá ser capaz de explicar o que é cada linha de configuração e como ela funciona ou para que serve. Essa configuração básica e a explicação precisa e correta te fornece uma nota 6,0. Melhore a configuração para obter nota superior.
+A configuração do exemplo considera apenas o servidor de nomes (`NS`) e endereços IPv4. Você deverá incluir pelo menos um servidor de email, endereços IPv6 e entradas canônicas.
+
+Na defesa do projeto você deverá ser capaz de explicar o que é cada linha de configuração e como ela funciona ou para que serve. Configurações adicionais, como PTR e dns reverso melhoram a sua nota.
 
 ### Criando um Dockerfile
 
 Crie um arquivo chamado `Dockerfile` com a seguinte configuração:
 
-```
+```dockerfile
 FROM internetsystemsconsortium/bind9:9.19
 
 RUN apt update \
@@ -120,14 +122,14 @@ Os arquivos de configuração do DNS estão no diretório `/etc/bind`.
 ## Configuração DNS do ISP
 1. Configure o seu DNS para responder pelo domínio `angelita.corp`. Configure corretamente a `zona` e a(s) entrada(s) `ns`.
 2. Adicione um endereço para ser utilizado pela página web `www.angelita.corp` que usaremos na próxima aula.
-3. Adicione entradas para outros serviços acessíveis externamente, desde que você tenha previsto no seu projeto. Por enquanto, não adicione nenhuma entrada para email.
+3. Adicione entradas para outros serviços acessíveis externamente.
 4. Utilize os comandos `named-checkconf` e `named-checkzone nome_do_dominio arquivo_de_configuracao` para verificar se as configurações que você criou estão corretas.
 
 
-## Configuração DNS dos clientes
+<!-- ## Configuração DNS dos clientes
 1. Crie configurações de DNS para dois clientes fictícios de sua escolha.
 2. O cliente um deverá possuir uma entrada para uma `página web`, para o `samba` e `servidor1`.
-3. O cliente dois deverá possuir entradas para uma `página web`, `intranet` e `fpt`.
+3. O cliente dois deverá possuir entradas para uma `página web`, `intranet` e `fpt`. -->
 
 
 ---
