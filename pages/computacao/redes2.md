@@ -17,6 +17,9 @@ summary: Página da disciplina Redes de Computadores II
     - [Laboratório 2 - DNS](lab_dns2.html)
     - [Projeto DNS](projeto_dns.html)
 
+- Web
+    - [Projeto](projeto_web.html)
+
 <!-- [Projeto](projeto.html)
 
 ## Módulo I: Revisão de Redes I

@@ -13,9 +13,12 @@ permalink: /projeto_dns.html
 Dentro do seu diretório de trabalho deverá existir um diretório que irá armazenar os arquivos de configuração que você criará a seguir. Aqui consideramos que esse diretório se chama `dns`.
 
 ### Criando arquivos de configuração iniciais
-1. Comece criando o arquivo de configuração `named.conf.options`
-2. Configure esse aquivo para utilizar os servidores DNS do google como forwarders. Obs: na defesa do seu trabalho você deverá explicar qual a função desse arquivo e quais configurações você adicionou. Veja o exemplo:
-```
+#### named.conf.options
+- Crie o arquivo `named.conf.options` para configurar as opções iniciais do servidor DNS.
+- Utilize servidores DNS do Google como forwarders para aprimorar o desempenho e a eficiência nas resoluções de consulta.
+
+Exemplo
+```plaintext
 options {
     directory "/var/cache/bind";
 
@@ -28,17 +31,26 @@ options {
     };
 };
 ```
+Nota: Na defesa do projeto, explique cada linha dessa configuração, destacando a função e o propósito.
 
-1. Depois, você deve definir a `zona` chamada `angelita.corp` (o nosso domínio) no arquivo de zonas (`named.conf.local`). Pesquise qual é a forma correta de realizar essa configuração. Exemplo:
-```
+#### named.conf.local
+- Defina a zona chamada `angelita.corp` no arquivo `named.conf.local`.
+- Crie um arquivo de zona correspondente e adicione a configuração apropriada.
+
+Exemplo:
+```plaintext
 zone "[nome_da_zona]" {
     type master;
     file "/etc/bind/zones/nome_arquivo_configuracao";
 };
 ```
-1. Crie um arquivo com o nome que você informou no arquivo de zonas e adicione a configuração correta. Exemplo:
 
-```
+#### Arquivo de Zona para "angelita.corp"
+- Crie um arquivo com o nome especificado no `named.conf.local`.
+- Adicione configurações básicas, como `SOA`, registros `NS`, registros `A` e `AAAA` para servidores e entradas canônicas (`CNAME`).
+
+Exemplo:
+```plaintext
 $TTL    [tempo_ttl] ; default expiration time (in seconds) of all RRs without their own TTL value
 @       IN      SOA     ns1.domain. root.domain. (
                   serial_number      ; Serial
