@@ -21,7 +21,8 @@ summary: Página da disciplina Redes de Computadores II
     - [Projeto](projeto_web.html)
 
 - FTP
-    - Baixe os arquivos:
+  
+  Baixe os arquivos:
     - [FTP](download/ftp.sh)
     - [SFTP](download/sftp.sh)
 
@@ -40,7 +41,10 @@ summary: Página da disciplina Redes de Computadores II
     echo "Um texto de arquivo" > arquivo
     scp arquivo aluno@172.17.0.2:
     ```
-    Senha do aluno: jujuba123
+Senha do aluno: jujuba123
+
+
+  
 <!-- [Projeto](projeto.html)
 
 ## Módulo I: Revisão de Redes I
