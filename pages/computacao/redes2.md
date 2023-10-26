@@ -25,7 +25,6 @@ summary: Página da disciplina Redes de Computadores II
   Baixe os arquivos:
     - [FTP](download/ftp.sh)
     - [SFTP](download/sftp.sh)
-
     ```
     Com um cliente FTP acesse os servidores.
     Host: localhost
