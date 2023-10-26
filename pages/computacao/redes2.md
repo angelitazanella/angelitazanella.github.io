@@ -23,7 +23,7 @@ summary: Página da disciplina Redes de Computadores II
 - FTP
     - Baixe os arquivos:
     - [FTP](download/ftp.sh)
-    - [SFTP](download/sfpt.sh)
+    - [SFTP](download/sftp.sh)
 
     ```
     Com um cliente FTP acesse os servidores.
