@@ -34,7 +34,13 @@ summary: Página da disciplina Redes de Computadores II
     FTP: não precisa informar a porta.
     SFTP: porta 22 (porta segura)
     ```
-    
+    - [SSH](download/ssh.sh)
+    ```bash
+    docker exec -it server bash
+    echo "Um texto de arquivo" > arquivo
+    scp arquivo aluno@172.17.0.2:
+    ```
+    Senha do aluno: jujuba123
 <!-- [Projeto](projeto.html)
 
 ## Módulo I: Revisão de Redes I
