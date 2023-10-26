@@ -20,6 +20,21 @@ summary: Página da disciplina Redes de Computadores II
 - Web
     - [Projeto](projeto_web.html)
 
+- FTP
+    - Baixe os arquivos:
+    - [FTP](download/ftp.sh)
+    - [SFTP](download/sfpt.sh)
+
+    ```
+    Com um cliente FTP acesse os servidores.
+    Host: localhost
+    Usuário: aluno
+    Senha: jujuba123
+
+    FTP: não precisa informar a porta.
+    SFTP: porta 22 (porta segura)
+    ```
+    
 <!-- [Projeto](projeto.html)
 
 ## Módulo I: Revisão de Redes I

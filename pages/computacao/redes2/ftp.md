@@ -10,4 +10,12 @@ permalink: /ftp.html
 
 Baixe os arquivos:
 - [FTP](download/ftp.sh)
-- [SFTP] (download/sfpt.sh)
+- [SFTP](download/sfpt.sh)
+
+Com um cliente FTP acesse os servidores.
+Host: `localhost`
+Usuário: `aluno`
+Senha: `jujuba123`
+
+FTP: não precisa informar a porta.
+SFTP: porta 22 (porta segura)
