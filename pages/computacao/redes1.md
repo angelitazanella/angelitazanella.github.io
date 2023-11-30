@@ -8,3 +8,4 @@ permalink: redes1.html
 summary: Página da disciplina Redes de Computadores I
 ---
 
+[PacketTracer](download/pt.sh)
