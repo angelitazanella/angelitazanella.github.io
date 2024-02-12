@@ -1,16 +1,16 @@
 ---
-title: About the theme's author
-keywords: documentation theme, jekyll, technical writers, help authoring tools, hat replacements
-last_updated: July 3, 2016
-tags: [getting_started]
-summary: "I have used this theme for projects that I've worked on as a professional technical writer."
-sidebar: mydoc_sidebar
-permalink: about.html
-folder: mydoc
-layout: page
+# title: About the theme's author
+# keywords: documentation theme, jekyll, technical writers, help authoring tools, hat replacements
+# last_updated: July 3, 2016
+# tags: [getting_started]
+# summary: "I have used this theme for projects that I've worked on as a professional technical writer."
+# sidebar: mydoc_sidebar
+# permalink: about.html
+# folder: mydoc
+# layout: page
 ---
 
-My name is Tom Johnson, and I'm a technical writer, blogger, and podcaster based in San Jose, California. For more details, see my [technical writing blog](http://idratherbewriting.com) and my [course on API documentation](http://idratherbewriting.com/learnapidoc/).  See [my blog's about page](http://idratherbewriting.com/aboutme/) for more details about me.
+<!-- My name is Tom Johnson, and I'm a technical writer, blogger, and podcaster based in San Jose, California. For more details, see my [technical writing blog](http://idratherbewriting.com) and my [course on API documentation](http://idratherbewriting.com/learnapidoc/).  See [my blog's about page](http://idratherbewriting.com/aboutme/) for more details about me.
 
 I have used this theme and variations of it for various documentation projects. This theme has undergone several major iterations, and now it's fairly stable and full of all the features that I need. You are welcome to use it for your documentation projects for free.
 
@@ -20,4 +20,4 @@ With a completely open architecture and code base, you can modify the code to ma
 
 If there's a feature you need but it isn't available here, let me know and I might add it. Alternatively, if you fork the theme, I would love to see your modifications and enhancements. Thanks for using Jekyll.
 
-{% include links.html %}
+{% include links.html %} -->
