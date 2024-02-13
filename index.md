@@ -30,7 +30,7 @@ Sou professora no IFC *campus* Videira desde 2010, atuando nos cursos técnico e
 - [Redes de Computadores I ](https://github.com/info-ifc-vda/redes_1-angelitazanella)
 - [Redes de Computadores II](https://angelitazanella.github.io/redes2.html)
 - Segurança
-- Infrastructure as Code
+- [Infraestrutura e Serviços Web](https://github.com/info-ifc-vda/infraestrutura_e_servicos_web-angelita)
 
 ### Licenciatura em Pedagogia
 - Tecnologias Digitais da Informação e Comunicação

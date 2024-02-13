@@ -59,14 +59,18 @@ entries:
     - title: Segurança de Sistemas
       url: /seguranca.html
       output: web, pdf
-
-    - title: Infra-as-Code
-      url: /iac.html
-      output: web, pdf
     
-    - title: Contêiners
-      url: /conteiners.html
-      output: web, pdf
+    - title: Infraestrutura e serviços web
+      url: https://github.com/info-ifc-vda/infraestrutura_e_servicos_web-angelita
+      output: web
+
+    # - title: Infra-as-Code
+    #   url: /iac.html
+    #   output: web, pdf
+    
+    # - title: Contêiners
+    #   url: /conteiners.html
+    #   output: web, pdf
 
     - title: Orientações de TCC
       url: /tcc.html
