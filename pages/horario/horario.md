@@ -90,32 +90,32 @@ summary: Horários do segundo semestre de 2023.
     <td class="tg-9wq8">Tarde - 1ª aula<br>13:30 - 14:20</td>
     <td class="tg-lyuj">TECINF - Info2A-01<br><br><span style="font-weight:bold">Redes</span></td>
     <td class="tg-9wq8">Planejamento</td>
-    <td class="tg-9wq8"></td>
-    <td class="tg-g7yy">Atendimento <br>ao estudante</td>
+    <td class="tg-9wq8">Planejamento</td>
+    <td class="tg-9wq8">Planejamento</td>
     <td class="tg-9wq8">Planejamento</td>
   </tr>
   <tr>
     <td class="tg-9wq8">Tarde - 2ª aula<br>14:20 - 15:10</td>
     <td class="tg-lyuj">TECINF - Info2A-01<br><br><span style="font-weight:bold">Redes</span></td>
     <td class="tg-9wq8">Planejamento</td>
-    <td class="tg-9wq8"></td>
-    <td class="tg-g7yy">Atendimento <br>ao estudante</td>
+    <td class="tg-9wq8">Planejamento</td>
+    <td class="tg-9wq8">Planejamento</td>
     <td class="tg-9wq8">Planejamento</td>
   </tr>
   <tr>
     <td class="tg-9wq8">Tarde - 3ª aula<br>15:30 - 16:20</td>
     <td class="tg-9wq8">Planejamento</td>
-    <td class="tg-7v2b">GBCC - 3a. fase<br><span style="font-weight:bold">Arquitetura </span><br><span style="font-weight:bold">de Computadores</span></td>
-    <td class="tg-9wq8"></td>
-    <td class="tg-g7yy">Atendimento <br>ao estudante</td>
+    <<td class="tg-9wq8">Planejamento</td>
+    <td class="tg-9wq8">Planejamento</td>
+    <td class="tg-9wq8">Planejamento</td>
     <td class="tg-9wq8">Planejamento</td>
   </tr>
   <tr>
     <td class="tg-9wq8">Tarde - 4ª aula<br>16:20 - 17:10</td>
     <td class="tg-9wq8">Planejamento</td>
-    <td class="tg-7v2b">GBCC - 3a. fase<br><span style="font-weight:bold">Arquitetura </span><br><span style="font-weight:bold">de Computadores</span></td>
-    <td class="tg-9wq8"></td>
-    <td class="tg-9wq8"></td>
+    <td class="tg-9wq8">Planejamento</td>
+    <td class="tg-9wq8">Planejamento</td>
+    <td class="tg-9wq8">Planejamento</td>
     <td class="tg-9wq8">Planejamento</td>
   </tr>
   <tr>
