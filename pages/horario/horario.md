@@ -56,7 +56,7 @@ summary: Horários do segundo semestre de 2023.
   </tr>
   <tr>
     <td class="tg-9wq8">Manhã - 3ª aula<br>9:10 - 10:00</td>
-    <td >Orientação de TCC</td>
+    <td class="tg-9wq8">Orientação TCC</td>
     <td class="tg-rgo1">GBCC - 7a. fase<br><span style="font-weight:bold">Segurança</span><br><span style="font-weight:bold">em Sistemas</span></td>
     <td class="tg-n73t">TECINF - Info2B-02<br><br><span style="font-weight:bold">Redes</span></td>
     <td class="tg-7v2b">GBCC - 3a. fase<br><span style="font-weight:bold">Arquitetura </span><br><span style="font-weight:bold">de Computadores</span></td>
