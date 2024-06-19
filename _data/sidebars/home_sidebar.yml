@@ -49,27 +49,27 @@ entries:
     folderitems:
 
     - title: Redes de Computadores I
-      url: https://github.com/info-ifc-vda/redes_1-angelitazanella
+      # url: https://github.com/info-ifc-vda/redes_1-angelitazanella
       output: web
 
     - title: Redes de Computadores II 
-      url: https://github.com/info-ifc-vda/redes_2-angelitazanella/
+      # url: https://github.com/info-ifc-vda/redes_2-angelitazanella/
       output: web
     
     - title: Segurança de Sistemas
-      url: https://github.com/info-ifc-vda/seguranca-angelita/
+      # url: https://github.com/info-ifc-vda/seguranca-angelita/
       output: web
     
     - title: Infraestrutura e serviços web
-      url: https://github.com/info-ifc-vda/infraestrutura_e_servicos_web-angelita
+      # url: https://github.com/info-ifc-vda/infraestrutura_e_servicos_web-angelita
       output: web
 
     - title: Arquitetura de Computadores
-      url: https://github.com/info-ifc-vda/arquitetura_de_computadores-angelita
+      # url: https://github.com/info-ifc-vda/arquitetura_de_computadores-angelita
       output: web
 
     - title: Sistemas Operacionais
-      url: https://github.com/info-ifc-vda/sistemas_operacionais-angelita/
+      # url: https://github.com/info-ifc-vda/sistemas_operacionais-angelita/
       output: web
 
     # - title: Infra-as-Code
@@ -89,11 +89,11 @@ entries:
     folderitems:
 
     - title: Redes de Computadores
-      url: /mydoc_about_ruby_gems_etc.html
+      # url: /mydoc_about_ruby_gems_etc.html
       output: web, pdf
 
     - title: Cibersecurity
-      url: /mydoc_install_jekyll_on_mac.html
+      # url: /mydoc_install_jekyll_on_mac.html
       output: web, pdf
 
 
