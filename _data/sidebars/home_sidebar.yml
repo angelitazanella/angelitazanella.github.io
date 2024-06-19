@@ -49,19 +49,27 @@ entries:
     folderitems:
 
     - title: Redes de Computadores I
-      url: /redes1.html
-      output: web, pdf
+      url: https://github.com/info-ifc-vda/redes_1-angelitazanella
+      output: web
 
     - title: Redes de Computadores II 
-      url: /redes2.html
-      output: web, pdf
+      url: https://github.com/info-ifc-vda/redes_2-angelitazanella/
+      output: web
     
     - title: Segurança de Sistemas
-      url: /seguranca.html
-      output: web, pdf
+      url: https://github.com/info-ifc-vda/seguranca-angelita/
+      output: web
     
     - title: Infraestrutura e serviços web
       url: https://github.com/info-ifc-vda/infraestrutura_e_servicos_web-angelita
+      output: web
+
+    - title: Arquitetura de Computadores
+      url: https://github.com/info-ifc-vda/arquitetura_de_computadores-angelita
+      output: web
+
+    - title: Sistemas Operacionais
+      url: https://github.com/info-ifc-vda/sistemas_operacionais-angelita/
       output: web
 
     # - title: Infra-as-Code
