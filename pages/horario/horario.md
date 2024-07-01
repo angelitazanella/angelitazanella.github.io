@@ -105,7 +105,7 @@ summary: Horários do segundo semestre de 2024.
   <tr>
     <td class="tg-planejamento">Tarde - 3ª aula<br>15:30 - 16:20</td>
     <td class="tg-planejamento">Planejamento</td>
-    <<td class="tg-planejamento">Planejamento</td>
+    <td class="tg-planejamento">Planejamento</td>
     <td class="tg-planejamento">Reuniões/<br>Planejamento</td>
     <td class="tg-planejamento">Planejamento</td>
     <td class="tg-planejamento">Planejamento</td>
