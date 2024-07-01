@@ -5,10 +5,10 @@ last_updated: 2 de agosto de 2023
 tags: tcc
 sidebar: home_sidebar
 permalink: tcc.html
-summary: Temas e assuntos para orientação de TCC.
+summary: Temas preferenciais e procedimentos para orientação de TCC.
 ---
 
-Entre os temas preferenciais para orientção de TC estão aqueles relacionados a segurança.
+Entre os temas preferenciais para orientação de TCC estão aqueles relacionados a segurança e Internet das Coisas.
 
 - Ferramentas e tecnologias de segurança
 - Protocolos seguros para IoT
@@ -20,6 +20,7 @@ Entre os temas preferenciais para orientção de TC estão aqueles relacionados 
     - Casas Inteligentes
     - Healthcare
     - Transporte Inteligente
+    - Indústria 4.0  
     - Fazendas Inteligentes
         - Detecção de ataques utilizando machine learning
             - Injeção de dados falsos
