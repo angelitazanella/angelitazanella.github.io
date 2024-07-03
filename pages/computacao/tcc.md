@@ -36,21 +36,6 @@ Entre os temas preferenciais para orientação de TCC estão aqueles relacionado
     - Healthcare
     - Transporte Inteligente    
     - Fazendas Inteligentes
-        <!-- - Detecção de ataques utilizando machine learning
-            - Injeção de dados falsos
-            - Ruídos 
-            - Captura de dados
-            - Acesso não autorizado
-            - Man-in-the-middle
-            - Inundação
-            - outros ataques (avaliar)
-        - Desafios e oportunidades de segurança (trabalho teorico)
-            - Estufas agrícolas inteligentes
-            - Sistemas de Armazenamento de Alimentos/Silos
-            - Agricultura de precisão
-            - Pecuária de precisão
-            - Agricultura em campo aberto
-        - Ferramentas e tecnologias de segurança -->
   - Indústria 4.0  
 
 Outros temas podem ser discutidos diretamente comigo.
