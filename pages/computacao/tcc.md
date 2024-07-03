@@ -5,7 +5,6 @@ last_updated: 2 de agosto de 2023
 tags: tcc
 sidebar: home_sidebar
 permalink: tcc.html
-summary: Temas preferenciais e procedimentos para orientação de TCC.
 ---
 
 Se você é aluno da Ciência da Computação e deseja minha orientação para o seu trabalho de TCC, é importante ter uma ideia inicial bem definida. Para me apresentar sua ideia, escreva um pré-projeto fornecendo informações relevantes para a orientação. Os temas preferenciais são listados abaixo.
