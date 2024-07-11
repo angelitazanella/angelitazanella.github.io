@@ -49,7 +49,7 @@ entries:
     folderitems:
 
     - title: Redes de Computadores I
-      # url: https://github.com/info-ifc-vda/redes_1-angelitazanella
+      external_url: https://github.com/info-ifc-vda/redes_1-angelitazanella
       output: web
 
     - title: Redes de Computadores II 
