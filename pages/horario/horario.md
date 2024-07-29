@@ -47,7 +47,7 @@ summary: Horários do segundo semestre de 2024.
     <td class="tg-planejamento">Planejamento</td>
   </tr>
   <tr>
-    <td class="tg-planejamento">Manhã - 1ª aula<br>7:30 - 8:20</td>
+    <td class="tg-planejamento">Manhã - 2ª aula<br>8:20 - 9:10</td>
     <td class="tg-seguranca">GBCC - 6a. fase<br><span style="font-weight:bold">Segurança <br>em Sistemas</span></td>
     <td class="tg-so">GBCC - 4a. fase<br><span style="font-weight:bold">Sistemas Operacionais</span></td>
     <td class="tg-seguranca">GBCC - 6a. fase<br><span style="font-weight:bold">Segurança <br>em Sistemas</span></td>
@@ -55,7 +55,7 @@ summary: Horários do segundo semestre de 2024.
     <td class="tg-planejamento">Planejamento</td>
   </tr>
   <tr>
-    <td class="tg-planejamento">Manhã - 1ª aula<br>7:30 - 8:20</td>
+    <td class="tg-planejamento">Manhã - 3ª aula<br>9:10 - 10:00</td>
     <td class="tg-tcc">Orientações de TCC<br></td>
     <td class="tg-so">GBCC - 4a. fase<br><span style="font-weight:bold">Sistemas Operacionais</span></td>
     <td class="tg-atendimento">Atendimento ao aluno</td>
